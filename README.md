@@ -7,7 +7,7 @@ Friend mode, background music, and a win sound effect.
 
 Made by: **P I S H**
 
-## Play it — two ways
+## Play it in two ways
 
 ### In your browser (easiest, works on anything)
 Just download [`index.html`](./index.html) and open it in any browser —

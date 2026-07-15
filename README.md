@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/30038245/README.md)
-# the momoi tictactoe 
+# The Momoi Tictactoe Date
 
-A pink, Airi Momoi–themed tic-tac-toe game with 4 CPU difficulty levels
+A pink, Airi Momoi–themed tic-tac-toe game with 4 difficulty levels
 (Easy, Medium, Hard, and a nearly-unbeatable "Impossible"), a local 2-player
 Friend mode, background music, and a win sound effect.
 

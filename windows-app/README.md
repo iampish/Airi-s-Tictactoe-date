@@ -1,4 +1,4 @@
-# the momoi tictactoe — Windows desktop build
+# the momoi tictactoe (Windows desktop build)
 
 This is the exact same game (same HTML/CSS/JS, same pink Airi theme, same
 difficulty modes) wrapped in a native Windows app using WinForms + WebView2,
@@ -13,8 +13,8 @@ so you get a real double-clickable `.exe`.
 
 ## Build it
 
-Open a terminal (PowerShell or cmd) in this folder — the one with
-`MomoiTicTacToe.csproj` — and run:
+Open a terminal (PowerShell or cmd) in this folder, the one with
+`MomoiTicTacToe.csproj` and run:
 
 ```
 dotnet publish -c Release
@@ -26,7 +26,7 @@ That produces a single self-contained `.exe` at:
 bin\Release\net8.0-windows\win-x64\publish\TheMomoiTicTacToe.exe
 ```
 
-Copy that one file anywhere — it's fully standalone, no installer, no
+Copy that one file anywhere; it's fully standalone, no installer, no
 loose files, no dependencies to drag along. Double-click it and the game
 opens in its own window titled "the momoi tictactoe".
 

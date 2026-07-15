@@ -1,4 +1,4 @@
-# the momoi tictactoe — Windows desktop build
+# The Momoi Tictactoe — Windows desktop build
 
 This is the exact same game (same HTML/CSS/JS, same pink Airi theme, same
 difficulty modes) wrapped in a native Windows app using WinForms + WebView2,

@@ -51,10 +51,10 @@ MomoiTicTacToe/
 ```
 
 `game.html` is embedded directly into the compiled `.exe` as a resource
-(not shipped as a separate file) at startup the app quietly extracts it
-to a temp file and points WebView2 at it. Everything you interact with,
-difficulty pills, the friend mode toggle, the board, Airi's speech
-bubbles, is the identical code from the browser version.
+(not shipped as a separate file). At startup, the app quietly extracts it
+To a temp file and point WebView2 at it. Everything you interact with,
+difficulty, the friend mode toggle, the board, and Airi's speech *(Momoi Airi Desu!)*
+Bubbles uses the same code as the browser version.
 
 ## Tweaking the game
 

@@ -32,8 +32,8 @@ To build it yourself:
 See [`windows-app/README.md`](./windows-app/README.md) for more detail.
 
 ## Features
-- 4 CPU difficulties, from "chill" all the way to "plays perfectly (with
-  a 0.0000034% chance of blundering)"
+- 4 difficulties, from "chill" all the way to "plays perfectly (with
+  a 0.0000034% chance of blundering."
 - Local Play-a-Friend mode
 - Looping background music with a volume slider
 - A little victory sound effect just for Airi
